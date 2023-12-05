@@ -1,0 +1,586 @@
+
+From,January 1, 2020 EST
+To,January 1, 2020 EST
+Barrie, (47045) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Barrie (47045)
+Address,83 Perry St.
+Latitude,44.382361
+Longitude,-79.702306
+Elevation, 226 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+47045,Fine Particulate Matter,2020-01-01,2,2,2,3,3,2,2,2,3,3,2,2,3,3,5,5,6,7,9,11,13,11,13,11,
+
+
+Belleville, (54012) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Belleville (54012)
+Address,2 Sidney St., Water Treatment Plant
+Latitude,44.150528
+Longitude,-77.3955
+Elevation, 75 metres
+Air Intake Height,10 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+54012,Fine Particulate Matter,2020-01-01,2,2,2,1,1,1,1,2,2,2,1,1,1,1,1,2,3,3,7,14,13,16,13,23,
+
+
+Brampton, (46090) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Brampton (46090)
+Address,109 Mclaughlin Rd. S.
+Latitude,43.669911
+Longitude,-79.766589
+Elevation, 218 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+46090,Fine Particulate Matter,2020-01-01,3,3,3,3,3,3,2,2,4,4,4,4,5,6,5,5,6,10,13,14,13,11,10,9,
+
+
+Brantford, (21005) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Brantford (21005)
+Address,324 Grand River Ave.
+Latitude,43.138611
+Longitude,-80.292639
+Elevation, 205 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+21005,Fine Particulate Matter,2020-01-01,2,1,2,4,5,4,4,2,1,2,3,3,4,5,7,6,7,10,11,12,12,11,10,11,
+
+
+Burlington, (44008) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Burlington (44008)
+Address,North Shore Blvd. E./lakeshore Rd.
+Latitude,43.315111
+Longitude,-79.802639
+Elevation, 78 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+44008,Fine Particulate Matter,2020-01-01,4,3,2,2,2,3,3,3,2,2,3,4,5,4,5,6,7,8,8,8,9,7,7,7,
+
+
+Chatham, (13001) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Chatham (13001)
+Address,435 Grand Ave. W.
+Latitude,42.403694
+Longitude,-82.208306
+Elevation, 179 metres
+Air Intake Height,15 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+13001,Fine Particulate Matter,2020-01-01,5,6,7,6,5,4,4,4,4,5,5,9,9,7,6,6,6,7,8,8,7,4,5,5,
+
+
+Cornwall, (56051) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Cornwall (56051)
+Address,Bedford St./3rd St. W.
+Latitude,45.017972
+Longitude,-74.735222
+Elevation, 55 metres
+Air Intake Height,4 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+56051,Fine Particulate Matter,2020-01-01,5,6,6,6,5,5,4,3,3,4,4,3,3,3,3,3,2,2,2,2,2,2,2,2,
+
+
+Dorset, (49010) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Dorset (49010)
+Address,1026 Bellwood Acres Rd.
+Latitude,45.224278
+Longitude,-78.932944
+Elevation, 318 metres
+Air Intake Height,3 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+49010,Fine Particulate Matter,2020-01-01,4,4,3,3,3,2,2,1,1,1,1,1,1,1,1,1,1,1,2,2,3,4,5,6,
+
+
+Grand Bend, (15020) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Grand Bend (15020)
+Address,Point Blake Conservation Area
+Latitude,43.333083
+Longitude,-81.742889
+Elevation, 185 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+15020,Fine Particulate Matter,2020-01-01,2,2,2,2,2,1,2,2,3,3,3,6,4,5,5,6,9,13,10,10,9,8,7,5,
+
+
+Guelph, (28028) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Guelph (28028)
+Address,Exhibition St./clark St. W.
+Latitude,43.551611
+Longitude,-80.264167
+Elevation, 330 metres
+Air Intake Height,4 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+28028,Fine Particulate Matter,2020-01-01,2,1,1,1,1,1,1,2,2,2,2,4,4,4,5,6,14,16,24,22,16,13,12,12,
+
+
+Hamilton Downtown, (29000) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Hamilton Downtown (29000)
+Address,Elgin St./kelly St.
+Latitude,43.257778
+Longitude,-79.861667
+Elevation, 90 metres
+Air Intake Height,4 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+29000,Fine Particulate Matter,2020-01-01,7,5,3,2,3,6,5,5,3,3,3,4,3,3,4,5,6,11,16,18,12,11,9,7,
+
+
+Hamilton Mountain, (29214) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Hamilton Mountain (29214)
+Address,250 Fennell Ave. W.
+Latitude,43.24132
+Longitude,-79.88941
+Elevation, 195 metres
+Air Intake Height,3 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+29214,Fine Particulate Matter,2020-01-01,3,2,1,1,3,5,3,3,2,1,3,4,4,4,7,9,7,9,12,12,9,7,6,6,
+
+
+Hamilton West, (29118) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Hamilton West (29118)
+Address,Main St. W./hwy 403
+Latitude,43.257444
+Longitude,-79.90775
+Elevation, 96 metres
+Air Intake Height,3 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+29118,Fine Particulate Matter,2020-01-01,2,2,2,1,2,3,2,4,3,3,3,5,4,4,5,5,6,7,9,10,9,8,7,7,
+
+
+Kingston, (52023) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Kingston (52023)
+Address,23 Beechgrove Lane
+Latitude,44.219722
+Longitude,-76.521111
+Elevation, 84 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+52023,Fine Particulate Matter,2020-01-01,5,4,4,3,3,3,3,3,3,3,2,2,2,3,2,2,2,2,2,4,7,7,7,7,
+
+
+Kitchener, (26060) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Kitchener (26060)
+Address,West Ave./homewood Ave.
+Latitude,43.443833
+Longitude,-80.503806
+Elevation, 325 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+26060,Fine Particulate Matter,2020-01-01,2,1,1,2,2,2,2,2,2,2,2,3,3,4,4,6,8,10,14,16,13,12,11,10,
+
+
+London, (15026) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,London (15026)
+Address,42 St. Julien St.
+Latitude,42.97446
+Longitude,-81.200858
+Elevation, 244 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+15026,Fine Particulate Matter,2020-01-01,3,6,5,5,4,3,3,4,3,4,4,5,6,6,5,7,11,12,11,10,9,8,6,6,
+
+
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+No data available 
+
+
+Milton, (44029) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Milton (44029)
+Address,1120 Main St. E.
+Latitude,43.529650
+Longitude,-79.862449
+Elevation, 206 metres
+Air Intake Height,4 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+44029,Fine Particulate Matter,2020-01-01,3,4,3,2,2,1,1,2,3,2,2,2,3,3,4,4,11,17,17,17,14,13,11,11,
+
+
+Mississauga, (46108) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Mississauga (46108)
+Address,3359 Mississauga Rd. N., U Of T Campus
+Latitude,43.54697
+Longitude,-79.65869
+Elevation, 105 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+46108,Fine Particulate Matter,2020-01-01,2,2,3,1,1,1,1,1,2,2,2,2,3,3,4,5,13,19,21,19,20,18,15,13,
+
+
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+No data available 
+
+
+Newmarket, (48006) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Newmarket (48006)
+Address,Eagle St. W./mccaffrey Rd.
+Latitude,44.044306
+Longitude,-79.48325
+Elevation, 268 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+48006,Fine Particulate Matter,2020-01-01,2,2,2,2,2,2,2,2,2,2,2,2,2,3,4,4,4,6,9,9,11,13,13,13,
+
+
+North Bay, (75010) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,North Bay (75010)
+Address,Chippewa St. W., Dept. National Defence
+Latitude,46.322500
+Longitude,-79.4494444
+Elevation, 212 metres
+Air Intake Height,4 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+75010,Fine Particulate Matter,2020-01-01,5,3,4,3,3,3,4,3,3,2,1,2,1,1,1,1,2,2,2,5,5,4,4,7,
+
+
+Oakville, (44017) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Oakville (44017)
+Address,Eighth Line/glenashton Dr., Halton Res.
+Latitude,43.486917
+Longitude,-79.702278
+Elevation, 165 metres
+Air Intake Height,12 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+44017,Fine Particulate Matter,2020-01-01,2,2,2,2,2,2,1,2,2,2,2,2,2,3,4,4,8,12,12,15,16,11,10,8,
+
+
+Oshawa, (45027) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Oshawa (45027)
+Address,Brittania Ave. W., Ep Taylor Stables
+Latitude,43.95222
+Longitude,-78.9125
+Elevation, 161 metres
+Air Intake Height,3 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+45027,Fine Particulate Matter,2020-01-01,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,5,6,7,7,10,10,12,
+
+
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+No data available 
+
+
+Ottawa Downtown, (51001) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Ottawa Downtown (51001)
+Address,Rideau St./wurtemburg St.
+Latitude,45.434333
+Longitude,-75.676
+Elevation, 68 metres
+Air Intake Height,4 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+51001,Fine Particulate Matter,2020-01-01,5,6,5,4,4,3,3,3,5,5,5,5,5,4,4,4,4,4,4,4,4,4,3,3,
+
+
+Parry Sound, (49005) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Parry Sound (49005)
+Address,7 Bay St.
+Latitude,45.338261
+Longitude,-80.039269
+Elevation, 176 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+49005,Fine Particulate Matter,2020-01-01,2,2,2,2,1,1,0,0,0,0,0,1,1,1,1,1,1,2,3,4,7,7,5,6,
+
+
+Petawawa, (51010) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Petawawa (51010)
+Address,Petawawa Research Forest Facility
+Latitude,45.996722
+Longitude,-77.441194
+Elevation, 174 metres
+Air Intake Height,6 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+51010,Fine Particulate Matter,2020-01-01,2,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+
+
+Peterborough, (59006) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Peterborough (59006)
+Address,10 Hospital Dr.
+Latitude,44.301917
+Longitude,-78.346222
+Elevation, 226 metres
+Air Intake Height,10 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+59006,Fine Particulate Matter,2020-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,4,5,5,5,5,9,
+
+
+Port Stanley, (16015) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Port Stanley (16015)
+Address,43665 Dexter Line, Elgin Water T. Plt
+Latitude,42.672083
+Longitude,-81.162889
+Elevation, 212 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+16015,Fine Particulate Matter,2020-01-01,6,6,7,6,5,5,6,7,6,6,5,6,6,6,9,8,9,8,7,7,5,5,5,5,
+
+
+Sarnia, (14111) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Sarnia (14111)
+Address,700 Christina St. N.
+Latitude,42.990263
+Longitude,-82.395341
+Elevation, 182 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+14111,Fine Particulate Matter,2020-01-01,3,3,3,3,3,3,3,3,5,5,6,6,6,5,6,9,13,11,11,10,11,11,9,7,
+
+
+Sault Ste. Marie, (71078) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Sault Ste. Marie (71078)
+Address,Sault College
+Latitude,46.533194
+Longitude,-84.309917
+Elevation, 244 metres
+Air Intake Height,8 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+71078,Fine Particulate Matter,2020-01-01,1,1,1,1,1,1,3,14,3,1,1,2,2,2,2,3,6,6,6,5,5,4,3,3,
+
+
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+No data available 
+
+
+St. Catharines, (27067) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,St. Catharines (27067)
+Address,Argyle Cres., Pump Stn.
+Latitude,43.160056
+Longitude,-79.23475
+Elevation, 105 metres
+Air Intake Height,4 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+27067,Fine Particulate Matter,2020-01-01,3,3,3,3,3,4,4,4,4,3,2,3,3,5,5,5,5,6,9,9,8,6,5,5,
+
+
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+No data available 
+
+
+Sudbury, (77233) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Sudbury (77233)
+Address,155 Elm St.
+Latitude,46.49194
+Longitude,-81.003105
+Elevation, 271 metres
+Air Intake Height,5 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+77233,Fine Particulate Matter,2020-01-01,2,3,4,1,1,1,1,1,1,2,1,1,1,1,2,2,3,4,5,3,7,5,4,7,
+
+
+Thunder Bay, (63203) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Thunder Bay (63203)
+Address,421 James St. S.
+Latitude,48.379389
+Longitude,-89.290167
+Elevation, 192 metres
+Air Intake Height,15 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+63203,Fine Particulate Matter,2020-01-01,8,10,9,9,10,11,8,9,10,9,8,9,8,9,10,6,9,8,10,11,11,12,11,13,
+
+
+Tiverton, (18007) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Tiverton (18007)
+Address,4th Concession/bruce Rd. 23
+Latitude,44.314472
+Longitude,-81.549722
+Elevation, 226 metres
+Air Intake Height,4 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+18007,Fine Particulate Matter,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,5,6,7,6,9,11,9,8,7,
+
+
+Toronto Downtown, (31129) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Toronto Downtown (31129)
+Address,55 John St.
+Latitude,43.64543
+Longitude,-79.38908
+Elevation, 85 metres
+Air Intake Height,3 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+31103,Fine Particulate Matter,2020-01-01,6,6,5,5,3,3,3,2,2,2,2,2,2,4,4,4,6,11,14,14,16,17,16,12,
+31129,Fine Particulate Matter,2020-01-01,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,
+
+
+Toronto East, (33003) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Toronto East (33003)
+Address,Kennedy Rd./lawrence Ave. E.
+Latitude,43.747917
+Longitude,-79.274056
+Elevation, 168 metres
+Air Intake Height,4 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+33003,Fine Particulate Matter,2020-01-01,1,2,2,2,2,2,2,2,1,1,3,5,4,4,4,5,12,9,13,20,17,23,20,13,
+
+
+Toronto North, (34021) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Toronto North (34021)
+Address,4905 Dufferin St., Eccc
+Latitude,43.78047
+Longitude,-79.467372
+Elevation, 186 metres
+Air Intake Height,4 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+34021,Fine Particulate Matter,2020-01-01,3,3,2,3,2,2,2,2,2,2,3,2,3,4,5,4,5,7,11,12,13,13,13,12,
+
+
+Toronto West, (35125) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Toronto West (35125)
+Address,125 Resources Rd.
+Latitude,43.709444
+Longitude,-79.5435
+Elevation, 141 metres
+Air Intake Height,8 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+35125,Fine Particulate Matter,2020-01-01,1,1,1,1,0,0,0,1,1,1,2,2,3,4,4,4,7,11,15,16,15,14,15,14,
+
+
+Windsor Downtown, (12008) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Windsor Downtown (12008)
+Address,467 University Ave. W.
+Latitude,42.315778
+Longitude,-83.043667
+Elevation, 176 metres
+Air Intake Height,4 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+12008,Fine Particulate Matter,2020-01-01,5,6,6,5,6,5,5,5,4,4,4,6,7,5,6,6,6,7,7,7,7,6,5,5,
+
+
+Windsor West, (12016) Hourly, Fine Particulate Matter (PM2.5) Concentrations
+Station,Windsor West (12016)
+Address,College Ave./south St.
+Latitude,42.292889
+Longitude,-83.073139
+Elevation, 180 metres
+Air Intake Height,4 metres
+Pollutant,Fine Particulate Matter (Fine Particulate Matter PM2.5)
+Unit, micrograms per cubic metre (&micro;g/m<sup>3</sup>)
+Remarks, -999 for missing data. 9999 for invalid data.
+Station ID,Pollutant,Date,H01,H02,H03,H04,H05,H06,H07,H08,H09,H10,H11,H12,H13,H14,H15,H16,H17,H18,H19,H20,H21,H22,H23,H24
+12016,Fine Particulate Matter,2020-01-01,12,14,13,11,10,10,9,9,10,11,13,15,13,11,10,9,10,10,11,12,11,9,8,6,
+
+
+
+
+
+Air Quality Ontario. Maintained by the Government of Ontario
+Copyright Queen's Printer for Ontario2021
+See Disclaimer at: http://www.airqualityontario.com/science/disclaimer.php 
